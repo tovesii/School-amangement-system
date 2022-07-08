@@ -1,0 +1,27 @@
+.button{
+    -fx-background-color: white;
+}
+.button:hover{
+    -fx-background-color: blueviolet;
+}
+.button:pressed{
+    -fx-background-color: aqua;
+}
+.btn{
+    -fx-background-color: #DD2F6E;
+}
+.btn:hover{
+    -fx-background-color: blueviolet;
+}
+.btn:pressed{
+    -fx-background-color: aqua;
+}
+.panel{
+    -fx-background-color: gray;
+}
+.panel:hover{
+    -fx-background-color: blueviolet;
+}
+.panel:pressed{
+    -fx-background-color: blue;
+}
